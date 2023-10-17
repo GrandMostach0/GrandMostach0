@@ -1,27 +1,23 @@
-<div align="justify">
-
-<h2></h2><br>
-<p align="left"><strong><samp>「</samp></strong></p>
+<hr>
+<p align="left"><strong>〳</strong></p>
   <p align="center">
     <samp>
       <b>
-        Hellooo!
+        Hello 👋!
       <br>
-        I'm Julian, a software engineering student. Interest in cybersecurity and knowledge in development.
+        I'm Victor, a software engineering student. Interest in cybersecurity and knowledge in development.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=On+the+way+to+being+a+great+h4ck3r">
+      <br>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02436E&random=false&width=435&lines=______+Let+the+hacking+begin+______"/>
       <br>
       <b>
-        ~ I ReyVerdugo I ~
+        ~  GrandMostach0 ~
       </b>
     </samp>
   </p>
-<p align="right"><strong><samp>」</samp></strong></p>
-
-
-
-<h2></h2><br>
+<p align="right">〳</p>
+<hr>
 
 <!--
 **GrandMostach0/GrandMostach0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
