@@ -1,4 +1,3 @@
-### Hi there 👋
 <div align="justify">
 
 <h2></h2><br>
