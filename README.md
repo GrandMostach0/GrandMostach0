@@ -9,7 +9,7 @@
       </b>
       <br>
       <br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02436E&random=false&width=435&lines=______+Let+the+hacking+begin+______"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=_____+let+the+development+begin+_____;________+let+the+hacking+begin+________"/>
       <br>
       <b>
         ~  GrandMostach0 ~
