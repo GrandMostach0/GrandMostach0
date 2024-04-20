@@ -18,22 +18,11 @@
   </p>
 <p align="right">〳</p>
 <hr>
+  
+ ## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GrandMostach0&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>  
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFnNXBvaDl0cTRpazBibzJrYTZpaDQxeDd4OWp4MTRmeHVxcW40eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0whoVCmi2vCmETbYtp/giphy.gif" width="100"/>
 </div>
-
-<!--
-**GrandMostach0/GrandMostach0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
