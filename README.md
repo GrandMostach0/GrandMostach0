@@ -19,6 +19,10 @@
 <p align="right">〳</p>
 <hr>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+</div>
+
 <!--
 **GrandMostach0/GrandMostach0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
